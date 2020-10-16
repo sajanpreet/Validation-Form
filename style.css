@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+
+}
+.container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+
+}
+h1{
+    margin: 20px 0;
+}
+
+.form-page{
+    width: 100%;
+}
+.form-page input{
+    max-width: 60%;
+}
